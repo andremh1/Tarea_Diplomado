@@ -1,7 +1,7 @@
 ## Titulo del trabajo
 Análisis de productividad por jaula en empresa salmonera
 
-##Autor
+## Autor
 Andre Munoz Herrera
 
 ## Descripción del problema 
